@@ -2,11 +2,6 @@
 
 MERIDIAN AI is a Streamlit product intelligence workspace for the official UCI Product Classification and Clustering dataset. It supports product classification, DBSCAN-based clustering, and candidate matching across merchant offers.
 
-## Official project
-
-**Group:** 7  
-**Team:** 2427010550 — Gaurav Suthar; 2427010462 — Neel Sanjaykumar Patel; 2427010521 — Rishit Miglani.
-
 **Problem statement:** Develop an intelligent, scalable and text-aware machine learning framework that automatically classifies and clusters product offers based on their short textual descriptions and subsequently performs entity matching to identify duplicate or equivalent products across different merchants.
 
 ## Official dataset and uploaded file
